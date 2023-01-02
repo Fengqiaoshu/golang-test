@@ -6,7 +6,7 @@ import (
 
 func main() {
 	var s1 []int
-	s1 = make([]int, 3) // 构造切片
+	//s1 = make([]int, 3) // 构造切片
 	// 追加元素
 	s1 = append(s1, 1)
 	s1 = append(s1, 2)
