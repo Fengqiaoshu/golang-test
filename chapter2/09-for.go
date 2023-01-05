@@ -24,7 +24,7 @@ func main() {
 	// 每个1s 打印一个haha
 	for {
 		fmt.Println("haha")
-		// 睡眠1秒
+		// 睡眠1s
 		time.Sleep(time.Second * 1)
 
 	}
